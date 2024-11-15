@@ -1,0 +1,579 @@
+{
+  "origin.origins.human.description": "-§l Mudanças notáveis§r: \n§oNenhum§r\n\n O destino de um humano é mais aberto do que o dos outros - aventure-se sem benefícios nem desvantagens.",
+
+  "origin.medievalorigins.alfiq.name": "Alfiq",
+  "origin.medievalorigins.alfiq.description": "-§l Mudanças notáveis§r: \n§o§2+ Bônus desarmado§r\n§o§2+ Movimento único§r\n§o§6• Carnivoro§r\n§o§c- Defesa§r\n§lAlfiq§r  são uma espécie astuta de felinos antropomórficos com garras afiadas e excelente agilidade. Os seus caminhos conduzem frequentemente a areias quentes.",
+
+  "origin.medievalorigins.arachnae.name": "Aracnídeas",
+  "origin.medievalorigins.arachnae.description": "-§l Mudanças notáveis§r: \n§o§2+ Veneno, Controle de multidões\n+ Escala paredes§r\n§o§6• Carnivoro§r\n§o§c- Fome, Armadura§r\nUma combinação grotesca de aranha e humano, com presas venenosas e pés eriçados, mas com a capacidade de andar em pé e empunhar armas.",
+
+  "origin.medievalorigins.banshee.name": "Banshee",
+  "origin.medievalorigins.banshee.description": "-§l Mudanças notáveis§r: \n§o§2+ Vôo, Suporte, Fases§r\n§o§c- Defesa§r\n§o§c- Mudanças extremas, Leia antes!§r\n§lBanshees§r são espíritos angustiados cujos gritos podem partir vidros e levar as pessoas à loucura. Nos mitos, a sua presença é frequentemente considerada um presságio de morte.",
+
+  "origin.medievalorigins.incubus.name": "Incubus",
+  "origin.medievalorigins.incubus.description": "-§l Mudanças notáveis§r: \n§o§2+ Bônus no nether\n§o§6• Baseado em fogo\n§o§c- Ferido pela água§r\n§o§c- Fraco no overworld§r\n§lIncubus§r são servos maléficos de um poder sombrio. São poderosos no seu próprio reino, mas em troca disso abdicaram da sua alma e são fracos para as fontes puras.",
+
+  "origin.medievalorigins.dwarf.name": "Anão",
+  "origin.medievalorigins.dwarf.description": "-§l Mudanças notáveis§r: \n§o§2+ Mineração, Excavação§r\n§o§6• Pequeno: 102cm/3'7\"§r\n§o§c- Sensivel a luz do sol \n- Incpaz de nadar§r\n§lAnões§r são simples, robustos e orgulhosos. São excelentes em mineração e vida subterrânea, mas têm dificuldades com a luz do dia. Rocha e pedra, irmão.",
+
+  "origin.medievalorigins.wood_elf.name": "Elfos da floresta",
+  "origin.medievalorigins.wood_elf.description": "-§l Mudanças notáveis§r: \n§o§2+ Bônus a distância, Velocidade§r\n§o§6• Furtivo, Vegetariano§r\n§o§c- Dano corpo-a-corpo, Defesa§r\n§lElfos da floresta§r são uma raça sábia e de longa longevidade que vive em harmonia com a Terra. São rápidos com a espada e o arco e conseguem enganar os seus inimigos entre as árvores.",
+
+  "origin.medievalorigins.high_elf.name": "Alto Elfo",
+  "origin.medievalorigins.high_elf.description": "-§l Mudanças notáveis§r: \n§o§2+ Mágia, Habilidades únicas§r\n§o§c- Dano físico\n- Defesa§r\n§lAltos Elfos§r são notoriamente arrogantes, embora indiscutivelmente talentosos; as magias elementais correm fortemente pelo seu sangue, embora sejam mais fracos com armas.",
+
+  "origin.medievalorigins.fae.name": "Fae",
+  "origin.medievalorigins.fae.description": "-§l Mudanças notáveis§r: \n§o§2+ Flutua, Magia§r\n§o§6• Pequeno: 122cm/4'0\"§r\n§o§c- Amado pelas criaturas§r\n§o§c- Defesa§r\n§lFae§r São humanóides pequenos, alados, e mágicos, Considerados espíritos da natureza, é dito que assombram as florestas e desorientam os viajantes. São igualmente místicos e trapaceiros.",
+
+  "origin.medievalorigins.goblin.name": "Goblin",
+  "origin.medievalorigins.goblin.description": "-§l Mudanças notáveis§r: \n§o§2+ Bônus com equipamentos de ouro\n§o§2+ Sorte, Velocidade§r \n§o§6• Pequeno: 92cm/3'3\"§r \n§o§c- Vida, Defesa§r\n§lGoblins§r são obcecados por ouro e tesouros e tendem a encontrar um pouco mais de pilhagem onde quer que procurem, mas o seu pequeno tamanho deixa-os vulneráveis em combate.",
+
+  "origin.medievalorigins.gorgon.name": "Górgona",
+  "origin.medievalorigins.gorgon.description": "-§l Mudanças notáveis§r: \n§o§2+ Dano venenoso, Imune§r\n§o§2+ Controle de multidões\n§o§c- Hidrófobo \n- Fraquezas únicas§r\n§lGorgons§r são criaturas amaldiçoadas que já foram humanas, com cabelo feito de serpentes contorcidas e um olhar assombroso que se diz petrificar aqueles que o testemunham.",
+
+  "origin.medievalorigins.moon_elf.name": "Elfo da lua",
+  "origin.medievalorigins.moon_elf.description": "-§l Mudanças notáveis§r: \n§o§2+ Dano de adaga\n+ Destreza§r\n§o§6• Furtivo, Não dorme§r\n§o§c- Defesa§r\nSeres misteriosos e etéreos que não pertencem a este mundo. Os elfos lunares não têm o nome derivado da sua terra natal, mas sim da única coisa que as suas vítimas conseguem ver antes do seu fim.",
+
+  "origin.medievalorigins.ogre.name": "Ogro",
+  "origin.medievalorigins.ogre.description": "-§l Mudanças notáveis§r: \n§o§2+ Bônus com machados, Defesa §r\n§o§6• Massivo: 268cm/9'5\"§r\n§o§c- Fome, Velocidade§r §r\n§lOgros§r são uma subespécie de Orc grande, de temperamento explosivo e bruto. O seu tamanho e inteligência limitada são compensados pela sua força bruta.",
+
+  "origin.medievalorigins.pixie.name": "Pixie",
+  "origin.medievalorigins.pixie.description": "-§l Mudanças notáveis§r: \n§o§2+  Voo único, peculiar§r\n§o§6• Minúsculo: 22cm/9\" §r\n§o§c- Defesa, Reputação §r\nSão frequentemente considerados como arautos da boa sorte, mas também como agentes de maldade, pouco confiáveis. Pixies são excêntricos e muito, muito pequenos.",
+
+  "origin.medievalorigins.plague_victim.name": "O Peste",
+  "origin.medievalorigins.plague_victim.description": "-§l Mudanças notáveis§r: \n§o§2+ Withering §r\n§o§6• Estilo de jogo único §r\n§o§6• Morto vivo §r\n§o§c- Defesa, Reputação \n§o§c- Dificuldade§r\nCriaturas meio-mortas e doentes que já não podem ser chamadas de humanas, amaldiçoadas e presas a um sofrimento eterno como resultado de uma estranha doença mágica.",
+
+  "origin.medievalorigins.revenant.name": "Revenant",
+  "origin.medievalorigins.revenant.description": "-§l Mudanças notáveis§r: \n§o§2+ Invocações §r\n§o§2+ Amigo dos Illager \n§o§6• Morto Vivo, Complexo §r\n§o§c- Reputação\n- Interações vivas §r\n§lRevenants§r são almas desafortunadas que tiveram mortes horríveis e dolorosas, mas que inexplicavelmente voltaram à vida. Como resultado, tornaram-se obcecados em manipular a vida e a morte noutras criaturas.",
+
+  "origin.medievalorigins.siren.name": "Sereia",
+  "origin.medievalorigins.siren.description": "-§l Mudanças notáveis§r: \n§o§2+ Baseado em água, Utilidade §r\n§o§6• Fraco na terra§r\n§o§c- Vulnerável a fogo§r\n§lSereias§r são considerados um tipo de Merfolk. Possuem uma aura envolvente e diz-se que a sua beleza irresistível é a ruína de muitos marinheiros tolos.",
+
+  "origin.medievalorigins.troll.name": "Troll",
+  "origin.medievalorigins.troll.description": "-§l Mudanças notáveis§r: \n§o§cNão implementado ainda§r\nGrande, Os trolls são gigantes pesados que vêm das montanhas, são agressivos e independentes - preferem viver e lutar sozinhos.",
+
+  "origin.medievalorigins.yeti.name": "Yeti",
+  "origin.medievalorigins.yeti.description": "-§l Mudanças notáveis§r: \n§o§2+ Baseado em gelo, Tank§r\n§o§6• Grande: 203cm/6'8\"§r\n§o§c- Sensivel ao calor§r\nAnimais de pelo espesso oriundos de bosques gelados, o domínio dos Yetis sobre o gelo lhes permite congelar os inimigos, mas eles são especialmente vulneráveis a ataques flamegantes.",
+
+  
+  "power.medievalorigins.alfiq/clawed.name": "Garras",
+  "power.medievalorigins.alfiq/clawed.description": "Alfiqs têm garras retrácteis afiadas como navalhas; causam dano extra com as patas vazias e podem escalar e agarrar-se a superfícies íngremes (Pode ser alternado)",
+
+  "power.medievalorigins.alfiq/crepuscular.name": "Crepuscular",
+  "power.medievalorigins.alfiq/crepuscular.description": "Perto do pôr do sol e do nascer do sol, os Alfiq movimentam-se e atacam muito mais rapidamente. Em outras horários, são letárgicos e ligeiramente mais lentos.",
+
+  "power.medievalorigins.alfiq/on_your_feet.name": "Na sua cola",
+  "power.medievalorigins.alfiq/on_your_feet.description": "Ao caírem de uma altura em que sofreriam 5 corações ou mais de dano, não sofrem qualquer dano.",
+
+  "power.medievalorigins.alfiq/pickpocket.name": "Batedor de carteira",
+  "power.medievalorigins.alfiq/pickpocket.description": "Clique com o botão direito do mouse nas costas de um aldeão enquanto te agachas com as patas vazias para teres a oportunidade de roubar algumas esmeraldas. Ou ser capturado. Há rumores de que se pode roubar outros jogadores.",
+
+  "power.medievalorigins.alfiq/pounce.name": "Salto",
+  "power.medievalorigins.alfiq/pounce.description": "Após se agachar brevemente e não se mover para carregar, um Alfiq pode saltar para a frente a uma grande distância. Atingir um inimigo durante o salto causa dano adicional.",
+
+  "power.medievalorigins.alfiq/poor_grip.name": "Má manipulação",
+  "power.medievalorigins.alfiq/poor_grip.description": "Os Alfiq têm uma velocidade de mineração reduzida com ferramentas, e um dano reduzido com armas de mão como espadas e machados.",
+
+  "power.medievalorigins.alfiq/agile_preference.name": "Preferência ágil",
+  "power.medievalorigins.alfiq/agile_preference.description": "Os Alfiq preferem usar apenas armaduras leves para facilitar a sua movimentação. As armaduras mais pesadas podem ser usadas sem penalização através de um encantamento.",
+
+  "power.medievalorigins.alfiq/meow.name": "Meow",
+  "power.medievalorigins.alfiq/meow.description": "",
+
+
+  "power.medievalorigins.arachnae/bottomless_stomach.name": "Estômago insaciável",
+  "power.medievalorigins.arachnae/bottomless_stomach.description": "As aracnídeas necessitam de uma maior quantidade de alimento para se manterem vivas.",
+
+  "power.medievalorigins.arachnae/brittle.name": "Quebradiço",
+  "power.medievalorigins.arachnae/brittle.description": "O exoesqueleto quitinoso das Aracnídeas dificulta a sua movimentação caso estejam a usar armaduras mais pesadas que o ferro. Isto pode ser evitado por meio de um encantamento." ,
+
+  "power.medievalorigins.arachnae/climber.name": "Escalador",
+  "power.medievalorigins.arachnae/climber.description": "As cerdas finas das patas das aracnídeas permitem-lhes escalar paredes.",
+  
+  "power.medievalorigins.arachnae/fragile_exoskeleton.name": "Frágil",
+  "power.medievalorigins.arachnae/fragile_exoskeleton.description": "O exoesqueleto da aracnídea é mais vulnerável a danos. Têm um pouco menos de saúde do que um humano normal.",
+  
+  "power.medievalorigins.arachnae/many_eyes.name": "Muitos olhos",
+  "power.medievalorigins.arachnae/many_eyes.description": "Os oito olhos das aracnídeas estão todos adaptados à escuridão e permitem-lhes ver claramente mesmo com muito pouca luz.",
+  
+  "power.medievalorigins.arachnae/venomous_bite.name": "Mordida venenosa",
+  "power.medievalorigins.arachnae/venomous_bite.description": "As presas das aracnídeas contêm veneno, e cada ataque tem uma chance de infligir envenenamento.",
+
+  "power.medievalorigins.arachnae/web_slinger.name": "Lançador de teias",
+  "power.medievalorigins.arachnae/web_slinger.description": "As aracnídeas podem, sob comando, tecer teias nas quais os seus adversários que ficarão imobilizados durante um curto período de tempo.",
+
+  "power.medievalorigins.banshee/spectral.name": "Espectral",
+  "power.medievalorigins.banshee/spectral.description": "As banshees possuem a capacidade de se tornarem intangíveis, movendo-se livremente pelo mundo físico sem poderem interagir com ele. Isto consome muita energia e não pode ser ativado quando se tem pouca fome.",
+
+  "power.medievalorigins.banshee/hexed.name": "Enfeitiçado",
+  "power.medievalorigins.banshee/hexed.description": "As banshees estão infestadas de maldições. Sempre que são atingidas, há uma pequena chance de que o atacante seja condenado a um destino de morte lenta e agonizante.",
+
+  "power.medievalorigins.banshee/immaterial.name": "Imaterial",
+  "power.medievalorigins.banshee/immaterial.description": "As banshees têm metade da vida de uma pessoa viva.",
+
+  "power.medievalorigins.banshee/dimeritium_shackles.name": "Grilhões de Dimeritium",
+  "power.medievalorigins.banshee/dimeritium_shackles.description": "Os metais supressores de magia, como o ferro ou a prata, são completamente intoleráveis para os banshees.",
+
+  "power.medievalorigins.banshee/lunar_nexus.name": "Nexus Lunar",
+  "power.medievalorigins.banshee/lunar_nexus.description": "As banshees não restauram a fome através da comida - a sua energia só é restaurada pela luz direta da lua, no entanto, não passam fome.",
+
+  "power.medievalorigins.banshee/sonic_shriek.name": "Grito preventivo",
+  "power.medievalorigins.banshee/sonic_shriek.description": "Os gritos da Banshee são um aviso de morte. Podem soltar um gemido estridente, empurrando entidades próximas para trás e invocando um pequeno círculo protetor. Os alvos atingidos diretamente pelo grito ficarão desorientados",
+
+  "power.medievalorigins.banshee/cursed_sigil.name": "Selo amaldiçoado",
+  "power.medievalorigins.banshee/cursed_sigil.description": "Causa mais dano quando empunha uma arma amaldiçoada.",
+
+  "power.medievalorigins.banshee/cursed_ward.name": "Guarda amaldiçoado",
+  "power.medievalorigins.banshee/cursed_ward.description": "É mais resistende a danos por cada peça de armadura amaldiçoada equipada.",
+
+  "power.medievalorigins.incubus/carnivore.name": "Carnivoro",
+  "power.medievalorigins.incubus/carnivore.description": "A sede de sangue de um incubus é insaciável. Se não for a carne de um animal, não tem valor.",
+
+  "power.medievalorigins.incubus/demon_fire.name": "Demonio de fogo",
+  "power.medievalorigins.incubus/demon_fire.description": "Incubus são naturalmente mais poderosos com todas as magias de fogo, e podem liberar uma explosão de chamas à sua vontade. Escala com poder de fogo.",
+
+  "power.medievalorigins.incubus/hellborne.name": "Nascido do inferno",
+  "power.medievalorigins.incubus/hellborne.description": "O fogo parece um lar - não causa danos aos Incubus e sacia-os.",
+
+  "power.medievalorigins.incubus/hydrophobe.name": "Hidrofóbico",
+  "power.medievalorigins.incubus/hydrophobe.description": "A água queima os Incubus, danificando-os ao contato.",
+
+  "power.medievalorigins.incubus/impure.name": "Impuro",
+  "power.medievalorigins.incubus/impure.description": "Incubus recebe dano extra de Julgamento e efeitos revertidos de regeneração e dano.",
+
+  "power.medievalorigins.incubus/dimension_strength.name": "Vantagem do reino",
+  "power.medievalorigins.incubus/dimension_strength.description": "Os Incubus não estão habituados a dimensões onde o sol brilha e são mais fracos nelas, mas são consideravelmente mais fortes no Nether.",
+
+  "power.medievalorigins.incubus/unholy_deal.name": "Acordo profano",
+  "power.medievalorigins.incubus/unholy_deal.description": "Um incubus pode trocar parte da sua força vital por poder bruto durante um curto período de tempo. Ativado com a tecla primária ativa.",
+
+  "power.medievalorigins.dwarf/darkness_dweller.name": "Morador da escuridão",
+  "power.medievalorigins.dwarf/darkness_dweller.description": "A luz direta do sol queima os olhos dos anões, cegando-os temporariamente. Pode ser evitado com um encantamento ou um capacete dourado.",
+
+  "power.medievalorigins.dwarf/dense.name": "Denso",
+  "power.medievalorigins.dwarf/dense.description": "Os anões são extremamente pesados para o seu tamanho e afundam-se rapidamente na água.",
+
+  "power.medievalorigins.dwarf/dwarven_tech.name": "Tecnologia anã",
+  "power.medievalorigins.dwarf/dwarven_tech.description": "Os anões são capazes de extrair pedra sem picareta e extraem tudo mais depressa do que os outros.",
+
+  "power.medievalorigins.dwarf/miniature.name": "Robusto",
+  "power.medievalorigins.dwarf/miniature.description": "Os anões são suficientemente baixos para caberem num túnel de 1 metro de altura (e quase tão largos como um).",
+
+  "power.medievalorigins.dwarf/mythril_resonance.name": "Ressonância Mythril",
+  "power.medievalorigins.dwarf/mythril_resonance.description": " Os metais poderosos que transportam o espírito do vosso povo enchem-vos de força.",
+
+  "power.medievalorigins.dwarf/nocturnal_eyes.name": "Olhos noturnos",
+  "power.medievalorigins.dwarf/nocturnal_eyes.description": "Os anões podem concentrar-se para ver com clareza sem necessitarem de qualquer fonte de luz.",
+
+  "power.medievalorigins.dwarf/potent_brew.name": "Ceveja poderosa",
+  "power.medievalorigins.dwarf/potent_brew.description": "Os anões são famosos pelas suas bebidas poderosas, capazes de derrubar alguém com o dobro do seu tamanho. Ativar para beber um gole e recuperar totalmente a saúde.",
+
+  "power.medievalorigins.human/description.name": "Nota",
+  "power.medievalorigins.human/description.description": "Os humanos não sofrem alterações em relação ao jogo de base.",
+
+  "power.medievalorigins.wood_elf/archer.name": "Arqueiro natural",
+  "power.medievalorigins.wood_elf/archer.description": "Os Elfos das Florestas passam toda a sua vida praticando arcos - as suas flechas são sempre mais mortíferas.",
+
+  "power.medievalorigins.wood_elf/forest_vision.name": "Visão da floresta",
+  "power.medievalorigins.wood_elf/forest_vision.description": "Enquanto estiverem em arbustos altos ou folhas, os elfos da floresta podem agachar-se para ganhar visão noturna e tornarem-se indetectáveis para os monstros próximos.",
+
+  "power.medievalorigins.wood_elf/eagle_eyed.name": "Olhos de águia",
+  "power.medievalorigins.wood_elf/eagle_eyed.description": "Os Elfos das Florestas podem rastrear um inimigo durante um curto período de tempo depois de o atingirem, mesmo quando não estão à vista.",
+
+  "power.medievalorigins.wood_elf/empowered_shot.name": "Foco",
+  "power.medievalorigins.wood_elf/empowered_shot.description": "Depois de carregar durante alguns segundos, lança uma flecha a uma velocidade maior, perfurando os inimigos, voando mais longe e causando mais danos.",
+
+  "power.medievalorigins.wood_elf/empowered_shot_zenith.name": "Foco",
+  "power.medievalorigins.wood_elf/empowered_shot_zenith.description": "Depois de carregar durante alguns segundos, lança uma flecha a uma velocidade maior, perfurando os inimigos, voando mais longe e causando mais danos",
+
+  "power.medievalorigins.wood_elf/empowered_shot_apotheosis.name": "Foco",
+  "power.medievalorigins.wood_elf/empowered_shot_apotheosis.description": "Depois de carregar durante alguns segundos, lança uma flecha a uma velocidade maior, perfurando os inimigos, voando mais longe e causando mais danos",
+
+  "power.medievalorigins.wood_elf/elegant.name": "Elegante",
+  "power.medievalorigins.wood_elf/elegant.description": "Os Elfos das Florestas têm menos saúde e ficam mais lentos se usarem armaduras pesadas (isto pode ser evitado com um encantamento).",
+
+  "power.medievalorigins.wood_elf/steward.name": "Guardião",
+  "power.medievalorigins.wood_elf/steward.description": "Os Elfos das Florestas vivem em harmonia com a floresta - não conseguem digerir carne.",
+
+  "power.medievalorigins.wood_elf/towering.name": "Alto",
+  "power.medievalorigins.wood_elf/towering.description": "Os Elfos das Florestas são ligeiramente mais altos do que a média dos humanos.",
+
+  "power.medievalorigins.wood_elf/graceful.name": "Gracioso",
+  "power.medievalorigins.wood_elf/graceful.description": "Os Elfos das Florestas não são tão poderosos, mas são rápidos. Os seus ataques causam danos reduzidos mas são ligeiramente mais rápidos.",
+
+  "power.medievalorigins.fae/allure.name": "Atraente",
+  "power.medievalorigins.fae/allure.description": "Os Fae são naturalmente sedutores. As criaturas os perseguirão de uma distância muito maior do que fariam com outras criaturas.",
+
+  "power.medievalorigins.fae/diminutive.name": "Diminutivo",
+  "power.medievalorigins.fae/diminutive.description": "Os Fae são muito baixos, sendo a maioria pouco mais alta do que um goblin médio.",
+
+  "power.medievalorigins.fae/iron_aversion.name": "Supressão mágica",
+  "power.medievalorigins.fae/iron_aversion.description": "O ferro e a prata inibem os poderes dos Fae. É insuportável para eles usá-los.",
+
+  "power.medievalorigins.fae/levitation.name": "Levitação",
+  "power.medievalorigins.fae/levitation.description": "Os Fae são criaturas leves e aladas que podem flutuar sem esforço no ar. Pressiona a tecla ativa primária para flutuarem para cima.",
+
+  "power.medievalorigins.fae/magic_resistance.name": "Resistência mágica",
+  "power.medievalorigins.fae/magic_resistance.description": "Como criaturas mágicas, os faes sofrem menos danos mágicos em comparação a outras criaturas.",
+
+  "power.medievalorigins.fae/regen.name": "Regeneração",
+  "power.medievalorigins.fae/regen.description": "Os Fae podem canalizar energia mágica e curar-se rapidamente, à custa da fome.",
+
+  "power.medievalorigins.goblin/cunning.name": "Esperto",
+  "power.medievalorigins.goblin/cunning.description": "Os Goblins são criaturas inteligentes e sabem onde encontrar os espólios mais raros que outras pessoas não conseguem encontrar.",
+
+  "power.medievalorigins.goblin/frail.name": "Fraco",
+  "power.medievalorigins.goblin/frail.description": "Devido à sua pequena estatura, os goblins têm menos saúde e são mais susceptíveis de sofrer danos.",
+
+  "power.medievalorigins.goblin/greedy.name": "Ganancioso",
+  "power.medievalorigins.goblin/greedy.description": "Os goblins têm uma relação especial com o tesouro - ganham bónus extra quando usam ou vestem equipamento de ouro.",
+
+  "power.medievalorigins.goblin/durability.name": "Acumulador cuidadoso",
+  "power.medievalorigins.goblin/durability.description": "O ouro nas mãos de um goblin dura muito mais tempo do que a maioria dos outros que são descuidados com ele.",
+
+  "power.medievalorigins.goblin/nippy.name": "Ágil",
+  "power.medievalorigins.goblin/nippy.description": "Apesar de serem baixos, os goblins são muito rápidos, o que lhes permite fugir da maioria dos inimigos mais fortes em vez de lutar.",
+
+  "power.medievalorigins.goblin/stunted.name": "Atrofiado",
+  "power.medievalorigins.goblin/stunted.description": "Os goblins são muito baixos, com menos de metade da altura de um humano.",
+
+  "power.medievalorigins.gorgon/hydrophobe.name": "Hidrofóbico",
+  "power.medievalorigins.gorgon/hydrophobe.description": "As górgonas não toleram a pureza da água e sofrem danos a partir dela.",
+
+  "power.medievalorigins.gorgon/to_stone.name": "Petrificado",
+  "power.medievalorigins.gorgon/to_stone.description": "As górgonas foram condenadas a ficar presas em cavernas escuras e masmorras antigas. Se saírem à luz do dia, ficam petrificadas até à noite. Pode ser anulado pelo uso de um capacete.",
+
+  "power.medievalorigins.gorgon/silver_aversion.name": "Aversão a prata",
+  "power.medievalorigins.gorgon/silver_aversion.description": "As górgonas são fracas à pureza da prata - não suportam usá-la e sofrem danos quando a empunham. (O ferro também é contado como prata)",
+
+  "power.medievalorigins.gorgon/petrifying_gaze.name": " Olhar Petrificante",
+  "power.medievalorigins.gorgon/petrifying_gaze.description": "Mira os olhos de qualquer criatura que esteja à sua frente, transformando-a em pedra por um breve período. Não funciona em bosses.",
+
+  "power.medievalorigins.gorgon/poison_blood.name": "Sangue envenenado",
+  "power.medievalorigins.gorgon/poison_blood.description": "As górgonas são imunes a veneno e têm a chance de derramar seu sangue tóxico em inimigos próximos quando atingidos, envenenando-os.",
+
+  "power.medievalorigins.gorgon/revenge.name": "Vingança",
+  "power.medievalorigins.gorgon/revenge.description": "As górgonas causam um dano significativamente maior quando têm pouca vida.",
+
+  "power.medievalorigins.high_elf/elegant.name": "Elegante",
+  "power.medievalorigins.high_elf/elegant.description": "Os Altos Elfos ficam mais lentos se usarem armaduras pesadas (isto pode ser evitado com um encantamento) e têm menos vida.",
+
+  "power.medievalorigins.high_elf/ebonbreath.name": "Extrair essência",
+  "power.medievalorigins.high_elf/ebonbreath.description": "Ao segurar diferentes objetos, os Altos Elfos podem canalizar a energia do objeto para desencadear várias magias. Passa o cursor sobre cada caixa para veres os detalhes.",
+
+  "power.medievalorigins.high_elf/fragile.name": "Frágil",
+  "power.medievalorigins.high_elf/fragile.description": "Um Elfo Alto não foi feito para o combate corpo a corpo. Eles são muito mais susceptíveis a danos físicos e têm menos saúde.",
+
+  "power.medievalorigins.high_elf/mystic_affinity.name": "Afinidade mística",
+  "power.medievalorigins.high_elf/mystic_affinity.description": "Os Altos Elfos são poderosos e habilidosos manipuladores de energia arcana - causam mais dano mágico e sofrem menos dano mágico do que outras raças.",
+
+  "power.medievalorigins.high_elf/mana_rpgmana.name": "Ancestralidade mística",
+  "power.medievalorigins.high_elf/mana_rpgmana.description": "Os Altos Elfos têm naturalmente mais mana do que outras raças, e podem canalizar o poder dos seus anciãos para regenerar mana rapidamente.",
+
+  "power.medievalorigins.high_elf/mana_irons.name": "Ancestralidade mística",
+  "power.medievalorigins.high_elf/mana_irons.description": "Os Altos Elfos têm naturalmente mais mana do que outras raças, e podem canalizar o poder dos seus anciãos para regenerar mana rapidamente.",
+
+  "power.medievalorigins.high_elf/mana_ars.name": "Ancestralidade mística",
+  "power.medievalorigins.high_elf/mana_ars.description": "Os Altos Elfos têm naturalmente mais mana do que outras raças, e podem canalizar o poder dos seus anciãos para regenerar mana rapidamente.",
+
+  "power.medievalorigins.high_elf/mana_irons_ars.name": "Ancestralidade mística",
+  "power.medievalorigins.high_elf/mana_irons_ars.description": "Os Altos Elfos têm naturalmente mais mana do que outras raças, e podem canalizar o poder dos seus anciãos para regenerar mana rapidamente.",
+
+  "power.medievalorigins.high_elf/towering.name": "Alto",
+  "power.medievalorigins.high_elf/towering.description": "Os Altos Elfos são magros e ligeiramente mais altos do que a média dos humanos.",
+
+  "power.medievalorigins.moon_elf/crazed.name": "Mundo extrangeiro",
+  "power.medievalorigins.moon_elf/crazed.description": "Por mais que tentem, os Elfos da Lua não conseguem dormir no overworld.",
+
+  "power.medievalorigins.moon_elf/stealth.name": "Para as sombras",
+  "power.medievalorigins.moon_elf/stealth.description": "Na escuridão, os Elfos da Lua podem tornar-se invisíveis ao esgueirarem-se e moverem-se uma curta distância enquanto estão furtivos. Quando atacam furtivamente, o seu primeiro ataque causa dano adicional e acaba com a invisibilidade. Se usarem um punhal, causam mais dano.",
+
+  "power.medievalorigins.moon_elf/elegant.name": "Elegant",
+  "power.medievalorigins.moon_elf/elegant.description": "Os Elfos da Lua ficam mais lentos quando usam armaduras pesadas. Isto pode ser evitado com um encantamento.",
+
+  "power.medievalorigins.moon_elf/ethereal.name": "Ethéreo",
+  "power.medievalorigins.moon_elf/ethereal.description": "Os elfos da lua são magros e até ligeiramente translúcidos, a sua pele tem uma tonalidade azul peculiar.",
+
+  "power.medievalorigins.moon_elf/fragile.name": "Frágil",
+  "power.medievalorigins.moon_elf/fragile.description": "Os Elfos da Lua têm a saúde reduzida e sofrem mais dano físico.",
+  
+  "power.medievalorigins.moon_elf/moonlight_rogue.name": "Ladrão da luz da lua",
+  "power.medievalorigins.moon_elf/moonlight_rogue.description": "Os Elfos da Lua são mais eficientes com uma arma leve e fácil de esconder. Causam mais danos com punhais e facas.",
+
+  "power.medievalorigins.moon_elf/nimble.name": "Ligeiro",
+  "power.medievalorigins.moon_elf/nimble.description": "Com os seus reflexos rápidos, os Elfos da Lua têm uma pequena chance de se esquivar de qualquer ataque.",
+
+  "power.medievalorigins.moon_elf/towering.name": "Alto",
+  "power.medievalorigins.moon_elf/towering.description": "Os Elfos da Lua têm aproximadamente a mesma altura que os seus parentes distantes da floresta, o que os torna ligeiramente mais altos que os humanos.",
+
+  "power.medievalorigins.ogre/gargantuan.name": "Gigantesco",
+  "power.medievalorigins.ogre/gargantuan.description": "Os ogros são enormes e não cabem em portas ou mesmo em muitas estruturas pequenas.  ",
+
+  "power.medievalorigins.ogre/lead_belly.name": "Barriga de chumbo",
+  "power.medievalorigins.ogre/lead_belly.description": "Os ogros preocupam-se pouco com o que comem. Comida é comida. Não sentem veneno nem fome.",
+
+  "power.medievalorigins.ogre/ravenous.name": "Feroz",
+  "power.medievalorigins.ogre/ravenous.description": "Ogres are almost never full; they need to eat near constantly to stay satisfied.'",
+
+  "power.medievalorigins.ogre/ravager.name": "Devastador",
+  "power.medievalorigins.ogre/ravager.description": "Os machados sentem-se bem na mão de um Ogro; este conforto permite-lhes balançar com muito mais força.",
+
+  "power.medievalorigins.ogre/bloodlust.name": "Sede de sangue",
+  "power.medievalorigins.ogre/bloodlust.description": "Os Ogros são conhecidos por entrarem imprevisivelmente num estado de fúria cega, em que podem esmagar rapidamente uma horda de inimigos, mas mal conseguem perceber o que se passa à sua volta. ",
+
+  "power.medievalorigins.ogre/sluggish.name": "Lento",
+  "power.medievalorigins.ogre/sluggish.description": "Os Ogros são mais lentos do que a maioria das outras criaturas para conservar a sua energia, apesar do seu enorme tamanho.",
+
+  "power.medievalorigins.ogre/stocky.name": "Encorpado",
+  "power.medievalorigins.ogre/stocky.description": "A pele grossa e os ossos densos dos ogros permitem-lhes resistir a muitos mais golpes do que os outros.",
+
+  "power.medievalorigins.pixie/curse_of_flight.name": "Maldição do voo",
+  "power.medievalorigins.pixie/curse_of_flight.description": "Pixies não podem usar peitorais mais robustos que o couro, e não podem usar outras asas para voar de forma diferente.",
+
+  "power.medievalorigins.pixie/feather_footed.name": "Com pés de penas",
+  "power.medievalorigins.pixie/feather_footed.description": "Pixies são tão leves que é impossível sofrerem danos de queda.",
+
+  "power.medievalorigins.pixie/flight.name": "Sobre o pó",
+  "power.medievalorigins.pixie/flight.description": "Os pixies podem voar e impulsionar-se para a frente e para cima. Leia as caixas ao lado deste poder para obter instruções sobre como voar. ",
+
+  "power.medievalorigins.pixie/mount.name": "Atalho",
+  "power.medievalorigins.pixie/mount.description": "Podes sentar-te em cima da cabeça de outro jogador clicando nele com o botão direito do mouse com as mãos vazias.",
+
+  "power.medievalorigins.pixie/good_fortunes.name": "Boa sorte",
+  "power.medievalorigins.pixie/good_fortunes.description": "Embora os pixies possam ser incómodos, também estão associados à boa sorte. Quando estão a minerar, podem ocasionalmente obter algo valioso de uma pedra simples.",
+
+  "power.medievalorigins.pixie/mischief_maketh_man.name": "A maldade faz o homem",
+  "power.medievalorigins.pixie/mischief_maketh_man.description": " Os pixies são capazes de realizar numerosas travessuras que, se não são sempre perigosas, são certamente barulhentas.",
+
+  "power.medievalorigins.pixie/pixie_properties.name": "Tamanho reduzido",
+  "power.medievalorigins.pixie/pixie_properties.description": "Os pixies são das criaturas mais pequenas a vaguear pela terra, raramente alcançando o joelho de um humano comum.",
+
+  "power.medievalorigins.pixie/soaked.name": "Encharcado",
+  "power.medievalorigins.pixie/soaked.description": "Sendo tão pequenos como são, a água representa uma ameaça significativa para os pixies. Dificulta os seus movimentos e reduz a sua capacidade de voar.",
+
+  "power.medievalorigins.pixie/troublemaker.name": "Criador de problemas",
+  "power.medievalorigins.pixie/troublemaker.description": "Os aldeões conhecem os pixies pelas fábulas de problemas que causam e recusam-se a negociar com eles.",
+
+  "power.medievalorigins.plague_victim/contagious.name": "Contagioso",
+  "power.medievalorigins.plague_victim/contagious.description": "Os Peste são uma visão horripilante. Os aldeões recusam-se a negociar com eles por medo.",
+
+  "power.medievalorigins.plague_victim/foul_aura.name": "Aura fétida",
+  "power.medievalorigins.plague_victim/foul_aura.description": "Uma magia horripilante invade a vítima e consome lentamente a vida de qualquer ser vivo que esteja por perto.",
+
+  "power.medievalorigins.plague_victim/insomniac.name": "Insônia",
+  "power.medievalorigins.plague_victim/insomniac.description": "O sono é impossível para o Peste, devido à sua agonia interminável.",
+
+  "power.medievalorigins.plague_victim/plague_immunity.name": "Imunidade a pragas",
+  "power.medievalorigins.plague_victim/plague_immunity.description": "Embora a dor imensa nunca termine, há apenas uma quantidade limitada de pele que pode morrer. Os portadores são imunes ao veneno e decomposição.",
+
+  "power.medievalorigins.plague_victim/eternal_suffering.name": "Sofrimento eterno",
+  "power.medievalorigins.plague_victim/eternal_suffering.description": "Uma vez a cada 5 minutos, após a morte, os pestes são mantidos vivos à força para prolongar o seu tormento.",
+
+  "power.medievalorigins.plague_victim/risk_of_transmission.name": "Contagioso",
+  "power.medievalorigins.plague_victim/risk_of_transmission.description": "Cada vez que atacar, há uma chance de espalhar a infeção.",
+
+  "power.medievalorigins.plague_victim/sensitive_skin.name": "Pele sensivel",
+  "power.medievalorigins.plague_victim/sensitive_skin.description": "Os Pestes ficam cobertos de vergões e lesões na pele, sensíveis e dolorosos ao toque. As suas vítimas não podem usar armaduras devido à dor que causam.",
+
+  "power.medievalorigins.plague_victim/skin_and_bones.name": "Pele e ossos",
+  "power.medievalorigins.plague_victim/skin_and_bones.description": "Esta doença drena o espírito, resultando numa redução da saúde e velocidade.",
+
+  "power.medievalorigins.siren/amphibious.name": "Anfibio",
+  "power.medievalorigins.siren/amphibious.description": "Na água, sereias podem respirar e interagir normalmente, também podem enxergar claramente e nadam mais rápido que os outros",
+
+  "power.medievalorigins.siren/flammable.name": "Inflamável",
+  "power.medievalorigins.siren/flammable.description": "As sereias e o fogo não se misturam. Qualquer contacto com as chamas resultará numa morte quase instantânea.",
+
+  "power.medievalorigins.siren/holy_water.name": "Água sagrada",
+  "power.medievalorigins.siren/holy_water.description": "As sereias têm corpos que se regeneram muito mais rapidamente, mas apenas quando estão completamente submersas.",
+
+  "power.medievalorigins.siren/out_of_your_depth.name": "Fora da sua profundidade",
+  "power.medievalorigins.siren/out_of_your_depth.description": "Em terra, as sereias só se podem curar ou regenerar usando poções.",
+
+  "power.medievalorigins.siren/siren_song.name": "Canção da sereia",
+  "power.medievalorigins.siren/siren_song.description": "Ative para subjugar inimigos em uma grande área, impedindo-os de ferir você por um curto período de tempo. Não funciona em bosses ou jogadores.",
+
+  "power.medievalorigins.siren/seduce.name": "Cativante",
+  "power.medievalorigins.siren/seduce.description": "Ative a tecla secundária para receber um favor com um villager e fazer melhores trocas com eles",
+
+  "power.medievalorigins.troll/apex_predator.name": "Predador Apex",
+  "power.medievalorigins.troll/apex_predator.description": "Trolls não podem comer comida regular - Eles só podem saciar sua fome, ao abater criaturas",
+
+  "power.medievalorigins.troll/ham_fisted.name": "Punho de presunto",
+  "power.medievalorigins.troll/ham_fisted.description": "Embora os enormes punhos de um troll deêm um poderoso soco, eles são pesados de mais para segurar um escudo.",
+
+  "power.medievalorigins.troll/ironhide.name": "Couro de ferro",
+  "power.medievalorigins.troll/ironhide.description": "Trolls possuem uma pele incrivelmente grossa, garantindo a eles uma armadura natural e uma quantidade massiva de vida",
+
+  "power.medievalorigins.troll/lumbering.name": "Pesado",
+  "power.medievalorigins.troll/lumbering.description": "Quando você é tão grande quanto um troll, você tem muito peso para carregar. Movimentar-se é notavelmente mais lento do que se poderia esperar devido ao seu tamanho.",
+
+  "power.medievalorigins.troll/mountainous.name": "Montanhoso",
+  "power.medievalorigins.troll/mountainous.description": "Os trolls são similares as montanhas de onde eles vem, eles são muito altos, duas vezes o tamanho de uma pessoa média",
+
+  "power.medievalorigins.troll/old_blood.name": "Sangue antigo",
+  "power.medievalorigins.troll/old_blood.description": "O sangue antigo que corre nas veias dos trolls está ligado as montanhas, eles não podem se curar fora das terras montanhosas",
+
+  "power.medievalorigins.troll/out_of_stock.name": "Sem estoque",
+  "power.medievalorigins.troll/out_of_stock.description": "Não existe armadura feita para caber em um troll - Eles estão condenados a andar apenas com o que a natureza lhes deu, nada mais.",
+
+  "power.medievalorigins.troll/rock_throw.name": "Lançador de pedras",
+  "power.medievalorigins.troll/rock_throw.description": "Um troll pode, e vai, lançar uma enorme pedra no ar, que vai abrir caminho sobre tudo que passar, entretando isso vai lhé custar 64 pedregulhos",
+
+  "power.medievalorigins.troll/thunderous_stride.name": "Marcha estrondosa",
+  "power.medievalorigins.troll/thunderous_stride.description": "Trolls andam com propósito. Se persistirem por tempo suficiente, poderão passar direto por qualquer obstáculo que possa cruzar seu caminho.",
+
+  "power.medievalorigins.yeti/flammable.name": " Inflamável",
+  "power.medievalorigins.yeti/flammable.description": "Yetis são suscetíveis a danos por fogo devido à sua natureza invernal.",
+
+  "power.medievalorigins.yeti/frigid_pulse.name": "Pulso gelado",
+  "power.medievalorigins.yeti/frigid_pulse.description": "O Yeti pode sepultar inimigos próximos imersos em gelo sob comando. Não funciona no nether ou em chefes.",
+
+  "power.medievalorigins.yeti/from_whence_you_came.name": " De onde você veio",
+  "power.medievalorigins.yeti/from_whence_you_came.description": "Em biomas gelados, os yetis se movem mais rapidamente e anulam o dano de queda.",
+
+  "power.medievalorigins.yeti/frosty_breath.name": "Sopro gelado",
+  "power.medievalorigins.yeti/frosty_breath.description": "O sopro gelado do yeti reduz a velocidade de qualquer oponente que se aproxime dele.",
+
+  "power.medievalorigins.yeti/thick_fur.name": "Pelo grosso",
+  "power.medievalorigins.yeti/thick_fur.description": "Nos desertos, o pelo grosso se torna uma maldição - ele retarda o movimento dos Yetis e reduz a saúde",
+
+  "power.medievalorigins.yeti/titanic.name": "Titânico",
+  "power.medievalorigins.yeti/titanic.description": "Os Yetis têm muito mais saúde do que um ser humano comum.",
+
+  "power.medievalorigins.yeti/unstoppable.name": "Imparável",
+  "power.medievalorigins.yeti/unstoppable.description": "Os Yetis são imunes ao efeito de lentidão.",
+
+  "power.medievalorigins.yeti/winter_body.name": "Corpo do inverno",
+  "power.medievalorigins.yeti/winter_body.description": "Os Yetis são bem maiores do que um ser humano comum e significativamente mais largos.",
+
+  "power.medievalorigins.revenant/black_thumb.name": "Polegar Negro",
+  "power.medievalorigins.revenant/black_thumb.description": "Um Revenant não pode colher nenhuma safra; elas murcham ao seu toque mortal. ",
+
+  "power.medievalorigins.revenant/disturbed.name": "Perturbado",
+  "power.medievalorigins.revenant/disturbed.description": "Experimentar o proibido distorce a mente. Os Revenants não conseguem dormir, com muito medo de sonhar com o que gostariam de não saber.",
+
+  "power.medievalorigins.revenant/hellraiser.name": "Ala do Ceifador",
+  "power.medievalorigins.revenant/hellraiser.description": "Quando quer, um revenant pode erguer um círculo de esqueletos inertes, agindo como um escudo temporário para protegê-lo do perigo e causar dano aos inimigos próximos.",
+
+  "power.medievalorigins.revenant/putrid_communion.name": "Comunhão Pútrida",
+  "power.medievalorigins.revenant/putrid_communion.description": "Por meio do ato perturbador de consumir a carne ou os ossos dos mortos-vivos, um revenant pode fortalecer sua próxima convocação do mesmo tipo.",
+
+  "power.medievalorigins.revenant/unwitherable.name": "Maldição Necrótica",
+  "power.medievalorigins.revenant/unwitherable.description": "Os revenants são imunes à decomposição e, assim como os mortos-vivos, recebem dano extra de julgamento, recebem efeitos invertidos de dano e cura e são imunes a efeitos de veneno e regeneração.",
+
+  "power.medievalorigins.revenant/skeleton_summons.name": "Revenancia",
+  "power.medievalorigins.revenant/skeleton_summons.description": "Os Revenants podem reconstruir criaturas da noite modificadas para cumprir suas próprias ordens. Elas agem como animais de estimação, seguem e se teletransportam, e os esqueletos podem ser equipados com qualquer arma. A força das criaturas que não são montarias aumenta com o poder de feitiço de Alma/Sangue. Invoque-o ativando-o enquanto o segura: \n§lEsqueleto:§r \n- mão principal: 4 ossos\n§lCavalo esqueleto:§r\n- mão principal: 12 ossos\n- mão secundária: 1 saddle \n§lEsqueleto Wither:§r \n- mão principal: 12 ossos\n- mão secundária: 1 cabeça wither\n§lZumbi:§r \n- mão principal: 4 carne podre\n§lCavalo Zumbi:§r \n- mão principal: 12 carne podre\n- mão secundária: 1 sela",
+
+  "power.medievalorigins.revenant/poor_reputation.name": "Aliado caótico",
+  "power.medievalorigins.revenant/poor_reputation.description": "Os aldeões se recusarão a negociar com os revenants e os golems de ferro os atacarão assim que os virem. No entanto, eles são aceitos entre as tropas dos Pillagers.",
+
+  "power.medievalorigins.revenant/siphon.name": "Extração de essência",
+  "power.medievalorigins.revenant/siphon.description": "Quando atingidos, os revenants acumulam lentamente um poder que lhes permite sugar a vida de seus inimigos. Isso afeta todas as criaturas, para o bem ou para o mal, exceto os mortos convocados.",
+
+  "power.medievalorigins.revenant/unguarded.name": " Não vigiado",
+  "power.medievalorigins.revenant/unguarded.description": "A obsessão pelo reino espiritual deixa os revenants mais expostos a ataques no reino físico. A maioria das criaturas causa mais dano a eles.",
+
+  "origin.medievalorigins.valkyrie.name": "Valquiria",
+  "origin.medievalorigins.valkyrie.description": "-§l Notable Changes§r: \n§o§2+ Regeneração§r \n§o§6• Asas emplumadas§r \n§o§c- Fraco a mortos vivos§r\n§lValquirias§r são guerreiros alados destemidos que decidem o destino dos que estão em batalha; diz-se que elas carregam os mortos para o Valhalla de Odin",
+
+  "power.medievalorigins.valkyrie/wings.name": "Emplumado",
+  "power.medievalorigins.valkyrie/wings.description": "Valkyrie têm enormes asas de penas brancas e podem voar livremente.",
+
+  "power.medievalorigins.valkyrie/intervention.name": "Intervenção",
+  "power.medievalorigins.valkyrie/intervention.description": "Salte para o ar ou avance se já estiver voando, ganhando imunidade a quedas até aterrissar. \n\nAo aterrissar, atinja o solo com energia sagrada, limpando os efeitos negativos dos aliados próximos e curando-os. A cura aumenta com o poder do feitiço de cura/feitiço sagrado.",
+
+  "power.medievalorigins.valkyrie/divine_smite.name": "Julgamento divino",
+  "power.medievalorigins.valkyrie/divine_smite.description": "A cada três ataques, golpeia os inimigos próximos. O dano aumenta de acordo com o poder do feitiço de cura/feitiço sagrado.",
+
+  "power.medievalorigins.valkyrie/corruption.name": "Corrução",
+  "power.medievalorigins.valkyrie/corruption.description": "Os mortos-vivos próximos enfraquecem e reduzem sua velocidade, e os ataques deles causam mais dano a você.",
+
+  "power.medievalorigins.valkyrie/vanquisher.name": "Conquistador",
+  "power.medievalorigins.valkyrie/vanquisher.description": "Ao matar um morto-vivo, aciona §nJulgamento Divino§r§r§r§r e reduz ligeiramente os efeitos de §nCorrupção§r para cada vítima. Perde metade das pilhas ao morrer.",
+
+  "power.medievalorigins.valkyrie/heavenly_implements.name": "Implementos celestiais",
+  "power.medievalorigins.valkyrie/heavenly_implements.description": "As Valquírias naturalmente têm mais poder de cura/feitiço sagrado e são mais potentes com armas do tipo lança ou arpão.",
+
+  "enchantment.medievalorigins.featherweight": "Peso pena",
+  "enchantment.medievalorigins.featherweight.desc": "Esse encantamento pode ser aplicado a armaduras pesadas para evitar a redução da velocidade das Aracnídeas, Elfos, Alfiq ou daqueles que têm asas.",
+
+  "enchantment.medievalorigins.mirroring": "Espelhamento",
+  "enchantment.medievalorigins.mirroring.desc": "Com esse encantamento aplicado aos capacetes, os jogadores ficam imunes ao olhar petrificante de uma górgona e os anões podem enxergar normalmente à luz do dia.",
+
+  "sounds.medievalorigins.banshee_cry": "Choro do Banshee",
+  "sounds.medievalorigins.channeled_wail": "Lamento canalizado",
+  "sounds.medievalorigins.horrible_screech": "Grito horrivel",
+  "sounds.medievalorigins.zhh_voo_woop": "Anomalia Misteriosa",
+  "sounds.medievalorigins.bone_crunch": "Osso quebradiço",
+  "sounds.medievalorigins.dash": "Traços de Pixie",
+  "sounds.medievalorigins.boost": "Arpejo de cordas",
+  "sounds.medievalorigins.hover": "Zumbido fraco",
+  "sounds.medievalorigins.jump": "Sinos suaves",
+  "sounds.medievalorigins.sirens_song": "Canção da sereia",
+
+  "entity.medievalorigins.summon_zombie": "Zumbi do Invocador",
+  "entity.medievalorigins.summon_skeleton": "Esqueleto do invocador",
+  "entity.medievalorigins.summon_wither_skeleton": "Esqueleto Whiter do invocador",
+
+  "badges.medievalorigins.pixie.jump": "Os saltos das Pixies têm 2 blocos de altura. Elas também podem voar, o que consome §bFlight Power (FP)§r. \n\nO §bFP§r só se regenera quando está no chão.",
+  "badges.medievalorigins.pixie.glide": "Planar - Pressione %s no ar para planar suavemente usando suas asas. \n\nNão requer §bFP§r.",
+  "badges.medievalorigins.pixie.hover": "Pairar - Pressione rapidamente %s duas vezes para começar a pairar (um voo criativo mais lento) e drenar lentamente o §bFP§r. \n\nSe seu §bFP§r se esgotar completamente, você deixará de pairar.",
+  "badges.medievalorigins.pixie.dash_forward": "Avanço - Pressione %s duas vezes rapidamente para avançar. \n\nIsso usa 50 §bFP§r se estiver planando e 25 §bFP§r caso contrário.",
+  "badges.medievalorigins.pixie.dash_upward": "Subir - Pressione rapidamente %s e depois %s para subir. \n\nIsso também usa 50 §bFP§r se estiver planando e 25 §bFP§r caso contrário.",
+  "badges.medievalorigins.pixie.disable_effects": "Press %s while sneaking to disable sounds and particle effects",
+
+  "badges.medievalorigins.high_elf.glacial_step": "§bPasso Glacial:§r Segure um bloco de gelo para manipular a entropia das moléculas de água, permitindo que você caminhe como se tivesse o passos gelados",
+  "badges.medievalorigins.high_elf.extrusive_movement": "§4Movimento intrusivo:§r Segure a obsidiana para canalizar o fluxo de calor e caminhar livremente sobre a lava fumegante",
+  "badges.medievalorigins.high_elf.instant_cure": "§eCura instantânea:§r Clique com o botão direito do mouse em um aldeão com uma maçã dourada para canalizar diretamente sua energia de cura sem precisar enfraquecê-lo",
+  "badges.medievalorigins.high_elf.void_warp": "§5Void Warp:§r Pressione %s enquanto segura uma pérola ender para romper o tecido da realidade e se teletransportar diretamente para onde você está olhando, a até 50 blocos de distância",
+  "badges.medievalorigins.high_elf.blazenbreath": "§cSopro de Blazen:§r Pressione %s enquanto segura o carvão em uma das mãos para disparar um cone de chamas fraco. Segure pó de blaze para disparar um cone de chamas moderado. Escala com poder de fogo.",
+  "badges.medievalorigins.high_elf.ebonbreath": "§dSopro de Ébano:§r Pressione %s enquanto segura o sopro de dragão engarrafado em uma das mãos para disparar um cone de forte de chama mágica. Escala com fogo e poder de feitiço Arcano/Ender.",
+
+  "badges.medievalorigins.revenant.siphon": "Atinge uma criatura viva para drenar sua força vital. O dano aumenta de acordo com o recurso acumulado e o Poder Mágico de Alma/Sangue.",
+  "badges.medievalorigins.revenant.eat": "Além de ossos e carne podre, comer certas cabeças de monstros pode carregar esse recurso mais rapidamente.",
+
+  "badges.medievalorigins.alfiq.wall_climb": "Pressione %s para alternar a escalada na parede.",
+
+  "medievalorigins.contagious_villager": "Este aldeão não fará comércio com você!",
+  "medievalorigins.disturbed_restless": "O que você sabe vai matá-lo, mas você morrerá rindo.",
+  "medievalorigins.moon_elf_no_sleep": "Os sons estranhos desse mundo estrangeiro o deixam inquieto",
+  "medievalorigins.insomniac_welts": "Seus vergões ardem e queimam. Não haverá sono para você esta noite.",
+  "medievalorigins.poor_reputation_villager": "O aldeão está com muito medo de negociar com você!",
+  "medievalorigins.troublemaker": "Os aldeões não negociam com gente como você!",
+  "medievalorigins.uncastable": "Você não pode usar essa habilidade no momento.",
+
+  "tooltip.medievalorigins.set_bonus": "Definir Bonus:",
+  "tooltip.medievalorigins.water_protection": "Proteção da água",
+  "tooltip.medievalorigins.looting_bonus": "Chance de aumentar o loot da criatura",
+  "tooltip.medievalorigins.unwearable": "Não utilizável",
+  "tooltip.medievalorigins.damage_dealt": "+%s Dano infligido",
+  "tooltip.medievalorigins.attack_damage_bonus": "+%s Dano de ataque",
+  "tooltip.medievalorigins.stab_bonus": "Bônus de quebra de furtividade",
+  "tooltip.medievalorigins.self_wither": "Definhou enquanto segurava",
+  "tooltip.medievalorigins.restores_no_hunger": "Não restaura a fome",
+  "tooltip.medievalorigins.moonlight_rogue": "Moonlight Rogue:",
+  "tooltip.medievalorigins.heavenly_implements": "Implantes Celestiais:",
+  "tooltip.medievalorigins.greedy": "Ganancioso:",
+  "tooltip.medievalorigins.ravager": "Devastador:",
+
+  "layer.medievalorigins.magic_subclasses.name": "Especialização em magia",
+  
+  "origin.medievalorigins.high_elf/arcanist.name": "ArcanistA",
+  "origin.medievalorigins.high_elf/arcanist.description": "Os Altos Elfos são naturalmente mais talentosos em um elemento, decidido no nascimento. \n\nUm mago consumido pelo domínio do esotérico e do desconhecido. \n\n+1 Poder de Feitiço Arcano",
+  "power.medievalorigins.high_elf/arcanist/gear_spawn.name": "Equipamento inicial:",
+  "power.medievalorigins.high_elf/arcanist/gear_spawn.description": "- Varinha arcana \n- 16 Runas arcanas",
+
+  "origin.medievalorigins.high_elf/pyromancer.name": "Piromante",
+  "origin.medievalorigins.high_elf/pyromancer.description": "Um lunático que sente prazer em ver as coisas queimarem. \n\n+1 Poder do Feitiço de Fogo",
+  "power.medievalorigins.high_elf/pyromancer/gear_spawn.name": "Equipamento inicial:",
+  "power.medievalorigins.high_elf/pyromancer/gear_spawn.description": "- Varinha de fogo \n- 16 Runas de fogo",
+
+  "origin.medievalorigins.high_elf/cryomancer.name": "Criomante",
+  "origin.medievalorigins.high_elf/cryomancer.description": "Uma alma calma e sábia que se concentra no controle e na estratégia. \n\n+1 Poder do Feitiço de Gelo",
+  "power.medievalorigins.high_elf/cryomancer/gear_spawn.name": "Equipamento inicial:",
+  "power.medievalorigins.high_elf/cryomancer/gear_spawn.description": "- Varinha de gelo \n- 16 Runas de gelo",
+  
+  "death.attack.siphon.player": "% tiveram sua alma dilacerada por %s",
+  "death.attack.smite.player": "% foi encontrado por %s"
+}
